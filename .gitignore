@@ -1,0 +1,2 @@
+# We ignore the node_modules folder and assume the user will install the needed packages for their latest version with npm install
+node_modules
